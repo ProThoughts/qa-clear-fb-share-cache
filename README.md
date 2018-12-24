@@ -4,7 +4,7 @@
 
 ## Description ##
 
-Just a simple plugin that will clear FB share cache automatically after new question is posted. By default you must clear FB share cache manualy [here]https://developers.facebook.com/tools/debug/og/object/ after new qustions is posted. If you don't do that and someone want to share question immediately, it will not pull right meta content. So, this plugin will prevent that situation by sending POST request to Facebook graph to scrape data.
+Just a simple plugin that will clear FB share cache automatically after new question is posted. By default you must clear FB share cache manualy [here](https://developers.facebook.com/tools/debug/og/object/) after new qustions is posted. If you don't do that and someone want to share question immediately, it will not pull right meta content. So, this plugin will prevent that situation by sending POST request to Facebook graph to scrape data.
 
 
 ## Installation ##
@@ -22,7 +22,7 @@ Just a simple plugin that will clear FB share cache automatically after new ques
 - Make Facebook page (page name must include app name)
 - Set Facebook page type to "App Page"
 - In Facebook app settings connect app with page
-- Go to [THIS LINK]https://developers.facebook.com/tools/accesstoken/ and find your new page on list
+- Go to [THIS LINK](https://developers.facebook.com/tools/accesstoken/) and find your new page on list
 - Copy "App Token"
 - In your Q2A admin panel "Plugins" page, find "Clear FB cache" and click "options"
 - In field you see paste that "App token"
