@@ -11,7 +11,7 @@
 		{
 			switch ($option) {
 					case 'fb_page_token':
-					return "YOUR APP TOKEN HERE";
+					return "";
 					break;
 					case 'fb_page_token_buttons_status':
 					return true;
